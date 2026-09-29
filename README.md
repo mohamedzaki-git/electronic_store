@@ -3,6 +3,7 @@
 **Electronic Store** is a **Full Stack** graduation project from **DEPI**, built with **React.js** and **Node.js**.  
 It provides a complete e-commerce shopping experience with both user-facing and admin dashboard functionalities.
 
+Demo: https://electronic-store-sable.vercel.app/#/home
 ![Electronic Store Screenshot](src/assets/Images/elctro.png)
 
 ## Features
