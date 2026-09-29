@@ -4,6 +4,7 @@
 It provides a complete e-commerce shopping experience with both user-facing and admin dashboard functionalities.
 
 Demo: https://electronic-store-sable.vercel.app/#/home
+
 ![Electronic Store Screenshot](src/assets/Images/elctro.png)
 
 ## Features
