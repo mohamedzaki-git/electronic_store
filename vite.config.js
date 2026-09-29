@@ -4,7 +4,7 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/electronic_store/",
+  // base: "/electronic_store/",
   build: {
     outDir: "build",
   },
