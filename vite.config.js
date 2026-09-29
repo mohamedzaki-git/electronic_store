@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   // base: "/electronic_store/",
   build: {
-    outDir: "build",
+    outDir: "dist",
   },
 });
